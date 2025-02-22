@@ -1,0 +1,41 @@
+#EXTM3U
+
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-name="Al Wafa Tarim" tvg-logo="https://alwafatarim.tv/assets/images/logo.png" group-title="Muslim",Al Wafa Tarim
+https://ammedia.siar.us/ammedia/live/ammedia_360p.m3u8
+
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-name="Al Quran Al Kareem TV" tvg-logo="https://images.indihometv.com/logo_alquran_small1.png" group-title="Muslim",Al Quran Al Kareem TV
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
+
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-name="Al Sunnah Al Nabawiyah TV" tvg-logo="https://news.dotalkhalij.com/content/uploads/2024/02/12/5bbd3f9968.jpg" group-title="Muslim",Al Sunnah Al Nabawiyah TV
+https://sbc-prod-dub-enc.edgenextcdn.net/out/v1/b09bbb8d9b684763be4211b088168de7/index.m3u8
+
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-name="Al Aqsa Channel" tvg-logo="https://static-cdn.toi-media.com/www/uploads/2015/11/tvlogo-e1448896628391.jpg" group-title="Muslim",Al Aqsa Channel
+http://167.172.161.13/hls/feedspare/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8
+
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-name="Palestine Today" tvg-logo="https://al-shabaka.org/wp-content/uploads/2024/01/Palestine-Today-Logo.jpeg" group-title="Muslim",Palestine Today
+https://live.paltodaytv.com/paltv/live/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-name="Palestine HD" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/2ebba914598923.56036d805849d.jpg" group-title="Muslim",Palestine HD
+https://pbc.furrera.ps/palestinehd/index.m3u8
+
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-name="RCTI" tvg-logo="https://banner2.cleanpng.com/20180629/wsk/aays7oc9b.webp" group-title="Indonesia",RCTI
+https://rcti-linier.rctiplus.id/hdntl=exp=1740231787~acl=%2F*~data=hdntl~hmac=6bb9f9350b05be7baca295fd49f3236bbee01ef3c6146c9283ddc02c1d5736c3/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
+
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-name="MNC TV" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/2ebba914598923.56036d805849d.jpg" group-title="Indonesia",MNC TV
+https://sindikasi.inews.id/embed/video/YWdlbnQ9ZGVza3RvcCZ1cmw9aHR0cHMlM0ElMkYlMkZlbWJlZC5yY3RpcGx1cy5jb20lMkZsaXZlJTJGbW5jdHYlMkZpbmV3c2lkJmhlaWdodD0xMDAlMjUmd2lkdGg9MTAwJTI1
+
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-name="GTV" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/2ebba914598923.56036d805849d.jpg" group-title="Indonesia",GTV
+https://sindikasi.inews.id/embed/video/YWdlbnQ9ZGVza3RvcCZ1cmw9aHR0cHMlM0ElMkYlMkZlbWJlZC5yY3RpcGx1cy5jb20lMkZsaXZlJTJGZ3R2JTJGaW5ld3NpZCZoZWlnaHQ9MTAwJTI1JndpZHRoPTEwMCUyNQ==
+
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-name="iNews" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/2ebba914598923.56036d805849d.jpg" group-title="Indonesia",iNews
+https://sindikasi.inews.id/embed/video/YWdlbnQ9ZGVza3RvcCZ1cmw9aHR0cHMlM0ElMkYlMkZlbWJlZC5yY3RpcGx1cy5jb20lMkZsaXZlJTJGaW5ld3MlMkZpbmV3c2lkJmhlaWdodD0xMDAlMjUmd2lkdGg9MTAwJTI1
