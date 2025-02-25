@@ -356,9 +356,6 @@ https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 #EXTINF:-1 tvg-id="AlQuranAlKareem.MACAN" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_93.png" group-title="MUSLIM",Al-Quran Kareem
 https://liveanevia.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
 
-#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/rodjatv.png" group-title="MUSLIM",RODJA TV
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(6f7158e4-f151-45dd-874f-e02c15c7cd4b)/manifest.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn5QS3pqd0xbzk8LeOTyqwuRR8dYp5VfdlnQ&usqp=CAU" group-title="MUSLIM",Al-Iman TV
@@ -386,22 +383,17 @@ http://wowza58.indostreamserver.com:1935/wesaltv/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Al Wafa Tarim" tvg-logo="https://alwafatarim.tv/assets/images/logo.png" group-title="MUSLIM",Al Wafa Tarim
 https://ammedia.siar.us/ammedia/live/ammedia_360p.m3u8
 
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-name="Al Quran Al Kareem TV" tvg-logo="https://images.indihometv.com/logo_alquran_small1.png" group-title="MUSLIM",Al Quran Al Kareem TV
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
 
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-name="Al Sunnah Al Nabawiyah TV" tvg-logo="https://news.dotalkhalij.com/content/uploads/2024/02/12/5bbd3f9968.jpg" group-title="MUSLIM",Al Sunnah Al Nabawiyah TV
 https://sbc-prod-dub-enc.edgenextcdn.net/out/v1/b09bbb8d9b684763be4211b088168de7/index.m3u8
 
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-name="Al Aqsa Channel" tvg-logo="https://static-cdn.toi-media.com/www/uploads/2015/11/tvlogo-e1448896628391.jpg" group-title="MUSLIM",Al Aqsa Channel
 http://167.172.161.13/hls/feedspare/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8
 
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-name="Palestine Today" tvg-logo="https://al-shabaka.org/wp-content/uploads/2024/01/Palestine-Today-Logo.jpeg" group-title="MUSLIM",Palestine Today
 https://live.paltodaytv.com/paltv/live/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-name="Palestine HD" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/2ebba914598923.56036d805849d.jpg" group-title="MUSLIM",Palestine HD
 https://pbc.furrera.ps/palestinehd/index.m3u8
