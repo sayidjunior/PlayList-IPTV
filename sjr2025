@@ -771,6 +771,26 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8?hdnea=exp=16
 ######## DAKWAH ########
 ########################
 
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-name="Al Quran Al Kareem TV" tvg-logo="https://images.indihometv.com/logo_alquran_small1.png" group-title="Muslim",Al Quran Al Kareem TV
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
+
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-name="Al Sunnah Al Nabawiyah TV" tvg-logo="https://news.dotalkhalij.com/content/uploads/2024/02/12/5bbd3f9968.jpg" group-title="Muslim",Al Sunnah Al Nabawiyah TV
+https://sbc-prod-dub-enc.edgenextcdn.net/out/v1/b09bbb8d9b684763be4211b088168de7/index.m3u8
+
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-name="Al Aqsa Channel" tvg-logo="https://static-cdn.toi-media.com/www/uploads/2015/11/tvlogo-e1448896628391.jpg" group-title="Muslim",Al Aqsa Channel
+http://167.172.161.13/hls/feedspare/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8
+
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-name="Palestine Today" tvg-logo="https://al-shabaka.org/wp-content/uploads/2024/01/Palestine-Today-Logo.jpeg" group-title="Muslim",Palestine Today
+https://live.paltodaytv.com/paltv/live/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-name="Palestine HD" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/2ebba914598923.56036d805849d.jpg" group-title="Muslim",Palestine HD
+https://pbc.furrera.ps/palestinehd/index.m3u8
+
 #EXTINF:-1 group-title="Dakwah" tvg-id="muslimtv.id" tvg-logo="https://iptv.urfan.id/logo/muslimtv.png",Muslim TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
