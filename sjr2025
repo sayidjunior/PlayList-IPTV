@@ -15,7 +15,7 @@ https://cdngb196.indihometv.com/atm/hlsv3/ANTV/ANTV-avc1_1200000=9-mp4a_96000=2.
 
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-0 tvg-name="TV" tvg-logo="https://images.indihometv.com/logo_kompastv_small.png?v=2.0.0.13" group-title="LOKAL", Kompas TV
-https://cdn13jtedge.indihometv.com/atm/hlsv3/KOMPAS_TV/KOMPAS_TV-avc1_1200000=8-mp4a_96000=2.m3u8
+https://cdn13jtedge.indihometv.com/atm/hlsv3/KOMPAS_TV/KOMPAS_TV-avc1_1200000=8-mp4a_96000=2.m3u8?encp=E13vvXZAWIP8BzaJBv09zg&uid=&expp=1740807271
 
 #EXTINF:-0 tvg-name="TV" tvg-logo="https://i.ibb.co/cr479Kt/20220530-135837.jpg" group-title="LOKAL", Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
