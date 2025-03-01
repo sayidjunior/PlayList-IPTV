@@ -1,6 +1,18 @@
 #EXTM3U
 ####LOKAL####
 
+#EXTINF:-0 tvg-name="TV" tvg-logo="https://images.indihometv.com/logo_transtv_ver2.png" group-title="LOKAL", Trans TV
+https://cdngb196.indihometv.com/atm/hlsv3/transtv/transtv-avc1_1200000=4-mp4a_96000=5.m3u8?encp=8ZzLixAS3oPvmTVwC-I_sQ&uid=&expp=1740806781
+
+#EXTINF:-0 tvg-name="TV" tvg-logo="https://images.indihometv.com/logo_trans7_ver1.png" group-title="LOKAL", Trans 7
+https://cdngb196.indihometv.com/atm/hlsv3/trans7/trans7-avc1_1200000=4-mp4a_96000=5.m3u8?encp=UfMK4acAvFJhfAE4VDQG9A&uid=&expp=1740807058
+
+#EXTINF:-0 tvg-name="TV" tvg-logo="https://images.indihometv.com/logo_antvnew_small.png" group-title="LOKAL", ANTV
+https://cdngb196.indihometv.com/atm/hlsv3/ANTV/ANTV-avc1_1200000=9-mp4a_96000=2.m3u8?encp=oFhQUKeqZ4hUyDgKurOONw&uid=&expp=1740807159
+
+#EXTINF:-0 tvg-name="TV" tvg-logo="https://images.indihometv.com/logo_kompastv_small.png?v=2.0.0.13" group-title="LOKAL", Kompas TV
+https://cdn13jtedge.indihometv.com/atm/hlsv3/KOMPAS_TV/KOMPAS_TV-avc1_1200000=8-mp4a_96000=2.m3u8?encp=E13vvXZAWIP8BzaJBv09zg&uid=&expp=1740807271
+
 #EXTINF:-0 tvg-name="TV" tvg-logo="https://yt3.ggpht.com/r8v4cZ4ixrbfcVIGsuBCe6IXWtWtEpi_2egxkgHmV-RABheIu3_5_7qLngA8Ej7o84YjxGdADQ=s88-c-k-c0x00ffffff-no-rj" group-title="LOKAL", Garuda TV
 https://ms.digdaya.tv/live/digdayatv/live.m3u8
 
